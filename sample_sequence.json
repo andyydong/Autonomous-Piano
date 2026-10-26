@@ -1,0 +1,13 @@
+{
+  "sequence": [
+    {"key": 0,  "hold_ms": 180, "delay_ms": 200},
+    {"key": 2,  "hold_ms": 180, "delay_ms": 200},
+    {"key": 4,  "hold_ms": 180, "delay_ms": 200},
+    {"key": 5,  "hold_ms": 180, "delay_ms": 200},
+    {"key": 7,  "hold_ms": 300, "delay_ms": 400},
+    {"key": 5,  "hold_ms": 180, "delay_ms": 200},
+    {"key": 4,  "hold_ms": 180, "delay_ms": 200},
+    {"key": 2,  "hold_ms": 180, "delay_ms": 200},
+    {"key": 0,  "hold_ms": 400, "delay_ms": 500}
+  ]
+}
