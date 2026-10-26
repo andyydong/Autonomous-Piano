@@ -17,6 +17,9 @@ gear, which in turn rotates the key.
 _minus the electronics_
 <img width="1152" height="1028" alt="image" src="https://github.com/user-attachments/assets/99669ca8-0885-4a5e-955c-d6b0e6fa15ab" />
 
+### Onshape Assembly
+https://cad.onshape.com/documents/4bd01db16d89671139a67dad/w/72671398a1f8459308bd84a4/e/43bb0d09254f08e1311bddf7?renderMode=0&uiState=6adec8638d290431a9a0d68b
+
 ## How do you play a piece on it?
 Piece Requirements:
 - The piece needs to only be playing one note at a time
