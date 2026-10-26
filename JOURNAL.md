@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmvkc1ept00yj01oc726zuulc). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Piano that plays itself using servos mounted an a gantry
+> Piano that plays itself using servos mounted an a gantry https://cad.onshape.com/documents/4bd01db16d89671139a67dad/w/72671398a1f8459308bd84a4/e/43bb0d09254f08e1311bddf7?renderMode=0&uiState=6adec8638d290431a9a0d68b
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
