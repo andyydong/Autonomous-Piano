@@ -27,3 +27,7 @@ Piece Requirements:
 - Needs to have a range <= 3 Octaves
 
 Upload the json file to the website and then press play.
+
+## Wiring Schematic
+<img width="804" height="828" alt="image" src="https://github.com/user-attachments/assets/500f6d75-d3b6-4bb0-bb47-3f4c9cef0aec" />
+
